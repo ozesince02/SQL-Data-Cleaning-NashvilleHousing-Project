@@ -64,7 +64,7 @@ This project has provided valuable hands-on experience in SQL data cleaning, hel
 
 This project was completed with the invaluable guidance and inspiration from the YouTube tutorial by Alex the Analyst. Alex's expertise in data analysis and SQL played a crucial role in the successful execution of this data cleaning project. I extend my gratitude to Alex for sharing educational content that empowers individuals in the field of data analysis.
 
-Alex the Analyst's YouTube Channel: Link
+Alex the Analyst's YouTube Channel: [Link](https://www.youtube.com/@AlexTheAnalyst)
 
 ### Additional Notes
 The project includes commented-out code for importing data using OPENROWSET and BULK INSERT. These advanced techniques are provided for reference but require proper server configuration and data source access.
